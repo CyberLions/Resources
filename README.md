@@ -17,3 +17,10 @@ There are a lot of powerful, free tools online which you can easily use instead 
 ### Binary Exploitation
 - Retargetable Decompiler: a powerful decompiler and disassembler for executables. Works quite well (files under 10MB) and can show disassembled executable as code or branch diagrams
   - https://retdec.com/
+
+### Password Cracking
+- Keep in mind Kali Linux has a few wordlists included at `/usr/share/wordlists/`
+- Good repos for more wordlists
+  - https://github.com/danielmiessler/SecLists/tree/master/Passwords
+- Cracked password hashdumps
+  - http://siph0n.net/hashdump.php
