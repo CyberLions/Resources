@@ -24,13 +24,14 @@ There are a lot of powerful, free tools online which you can easily use instead 
   - https://github.com/danielmiessler/SecLists/tree/master/Passwords
 - Cracked password hashdumps
   - http://siph0n.net/hashdump.php
+  
 ### VulnHub CTFs
 - Vulnerable virtual machines that give you a hands on approach to learning digital security. Similar to actual competitions with the added benefit that you can do them at your own leisure.
   - https://www.vulnhub.com/entry/skydog-2016-catch-me-if-you-can,166/
   - https://www.vulnhub.com/entry/mr-robot-1,151/
   - https://www.vulnhub.com/entry/sickos-11,132/
   
-  ### Learning Resources
+### Learning Resources
    - https://www.codecademy.com/learn/learn-the-command-line
    - http://overthewire.org/wargames/bandit/
    - https://hackcenter.com/sign-in
