@@ -1,9 +1,19 @@
 # Resources
 This repository contains helpful external links to resources/tools to solve competition challenges
 
-## todo:
+#### todo:
 - add links to other, fuller repos like this (Kevin found a few good ones?)
 - include references to commonly used tools (e.g. `john`, `hashcat`, `tshark` etc just so beginners know where to start)
+
+## Learning Resources
+* [CodeAcademy: command line](https://www.codecademy.com/learn/learn-the-command-line)
+* [OverTheWire Wargames](http://overthewire.org/wargames/)
+* [Crypto Training Challenges](https://cryptopals.com/)
+* [Learn to Hack](https://hackcenter.com/sign-in)
+* [Open-source cybersecurity learning](https://www.cybrary.it/)
+* [SmashTheStack](http://smashthestack.org/index.html#)
+* [infosecinstitute](http://ctf.infosecinstitute.com/)
+* [Embedded Security CTF](https://microcorruption.com/login)
 
 ## Helpful Online Tools
 There are a lot of powerful, free tools online which you can easily use instead of having to download or learn software packages. Really helpful if you're rushed for time and can't go looking around for the best software to install or how to use it.
@@ -31,9 +41,3 @@ There are a lot of powerful, free tools online which you can easily use instead 
   - https://www.vulnhub.com/entry/mr-robot-1,151/
   - https://www.vulnhub.com/entry/sickos-11,132/
   
-### Learning Resources
-   - https://www.codecademy.com/learn/learn-the-command-line
-   - http://overthewire.org/wargames/bandit/
-   - https://hackcenter.com/sign-in
-   - https://www.cybrary.it/
- 
