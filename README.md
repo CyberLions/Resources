@@ -1,43 +1,75 @@
-# Resources
-This repository contains helpful external links to resources/tools to solve competition challenges
+# Welcome to the CyberLions wiki!
 
-#### todo:
-- add links to other, fuller repos like this (Kevin found a few good ones?)
-- include references to commonly used tools (e.g. `john`, `hashcat`, `tshark` etc just so beginners know where to start)
+## How to Start?
+Starting cybersecurity competitions can be overwhelming if you're new. Check out some resources to help prepare for your first CTF, or just check out old competitions for fun or practice!
+* First steps:
+  * [What to expect from a competition?](ctf-intro.md)
+  * [Computer setup](computer-setup.md)
+* List of [past competitions CCSO has participated in](Past-Competitions.md) reaching back to ~Spring 2016 (club founded in ~Spring 2015)
+* Once you've read up a little and want some practice, check out the [write-ups repos](https://github.com/cyberLions/) for old challenges!
 
-## Learning Resources
-* [CodeAcademy: command line](https://www.codecademy.com/learn/learn-the-command-line)
-* [OverTheWire Wargames](http://overthewire.org/wargames/)
-* [Crypto Training Challenges](https://cryptopals.com/)
-* [Learn to Hack](https://hackcenter.com/sign-in)
-* [Open-source cybersecurity learning](https://www.cybrary.it/)
-* [SmashTheStack](http://smashthestack.org/index.html#)
-* [infosecinstitute](http://ctf.infosecinstitute.com/)
-* [Embedded Security CTF](https://microcorruption.com/login)
+## Upcoming Competitions (Spring 2017)
 
-## Helpful Online Tools
-There are a lot of powerful, free tools online which you can easily use instead of having to download or learn software packages. Really helpful if you're rushed for time and can't go looking around for the best software to install or how to use it.
+### [CodeGate 2017](http://ctf.codegate.org/)
+* South Korean competition
+* Fri Feb 10 0400 - Sat Feb 11 0400
+  * Registration Deadline: Thu Feb 9 1859
+* Teams allowed
 
-### Web Exploitation
-- SSL/cert checker (for use in open-source google-fu challenges). Parts of this website will also show the `openssl` commands used so you can learn what's happening
-  - https://www.sslshopper.com/ssl-checker.html
-- Another ssl checker. Much deeper than the previous one (notable benefit: shows the size of the cert chain)
-  - https://www.ssllabs.com/ssltest/analyze.html
+### [VolgaCTF Teaser](https://teaser.2017.volgactf.ru/)
+* Samara State University (Russia): International inter-university CTF  
+* Sat Feb 25 0600 - Sat Feb 25 1200
+  * Registration opens at end of January
 
-### Binary Exploitation
-- Retargetable Decompiler: a powerful decompiler and disassembler for executables. Works quite well (files under 10MB) and can show disassembled executable as code or branch diagrams
-  - https://retdec.com/
+### [UCSB iCTF](https://ictf.cs.ucsb.edu/)
+* UC Santa Barbara
+  * Been rescheduled a few times: may need to contact [Giovannii Vigna](vigna@cs.ucsb.edu) to register
+* Attack-Defense (not ctf?)
+* Fri Mar 03 2000 - Sat Mar 04 2000
 
-### Password Cracking
-- Keep in mind Kali Linux has a few wordlists included at `/usr/share/wordlists/`
-- Good repos for more wordlists
-  - https://github.com/danielmiessler/SecLists/tree/master/Passwords
-- Cracked password hashdumps
-  - http://siph0n.net/hashdump.php
-  
-### VulnHub CTFs
-- Vulnerable virtual machines that give you a hands on approach to learning digital security. Similar to actual competitions with the added benefit that you can do them at your own leisure.
-  - https://www.vulnhub.com/entry/skydog-2016-catch-me-if-you-can,166/
-  - https://www.vulnhub.com/entry/mr-robot-1,151/
-  - https://www.vulnhub.com/entry/sickos-11,132/
-  
+### [0CTF 2017 Quals](https://ctf.0ops.net/)
+* Fri Mar 17 1900 - Sun Mar 19 1900
+  * See ctftime to register?
+
+### [MIT CTF](http://ctf.mit.edu/)
+* run by MIT
+* Sat Mar 18 1000 - Sun Mar 19 1600
+* Competition is an on-site event! Contact club officers for transportation info
+
+### [VolgaCTF Quals](https://quals.2017.volgactf.ru/)
+* Samara State University (Russia): International inter-university CTF  
+* Fri Mar 24 1000 - Sun Mar 26 1000
+  * Registration opens at end of February
+* Teams allowed (?)
+
+### [Insomni'hack 2017](https://insomnihack.ch/)
+* Swiss Security Conference and Ethical Hacking Organization
+* Fri Mar 24 1200 - Fri Mar 24 2200
+* Teams: 8
+
+### [Nuit du Hack Quals CTF](https://www.nuitduhack.com/)
+* French - Hackerz Voice organization
+* Sat Apr 01 1659 - Sun Apr 02 1659
+  * we are checking on registration
+
+### [ASIS CTF](https://asis-ctf.ir/)
+* Fri Apr 07 0730 - Sun Apr 09 0730
+  * we are checking on registration
+
+### [HITB CTF](https://conference.hitb.org/hitbsecconf2017ams/capture-the-flag/)
+* Hack in the Box (Amsterdam)
+* April 13 - 14
+  * Registration currently full
+
+### [NCL Spring 2017 Preseason, Regular Season](https://www.nationalcyberleague.org/spring-season)
+* Registration: Feb 25 - Mar 25
+* $25 / individual
+* Preseason:
+  * Thu Apr 13 - Mon Apr 17
+* Regular Season:
+  * Fri Apr 21 - Sun Apr 23
+
+### [NCL Spring 2017 Postseason](https://www.nationalcyberleague.org/spring-season)
+* Registration: Apr 13 - Apr 20 
+* $25 / team
+* Fri Apr 28 - Sun Apr 30
