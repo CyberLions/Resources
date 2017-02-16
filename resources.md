@@ -1,6 +1,10 @@
 #### todo:
 - include references to commonly used tools (e.g. `john`, `hashcat`, `tshark` etc just so beginners know where to start)
 
+# Introductory Sites
+###### Explanation, preparation tips, etc
+* https://www.wraysec.com/2015/11/02/how-to-win-the-ncl/
+
 # Learning Resources
 * [CodeAcademy: command line](https://www.codecademy.com/learn/learn-the-command-line)
 * [OverTheWire Wargames](http://overthewire.org/wargames/)
