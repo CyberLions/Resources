@@ -6,14 +6,22 @@
 * https://www.wraysec.com/2015/11/02/how-to-win-the-ncl/
 
 # Learning Resources
-* [CodeAcademy: command line](https://www.codecademy.com/learn/learn-the-command-line)
+General bash/intro:  
 * [OverTheWire Wargames](http://overthewire.org/wargames/)
-* [Crypto Training Challenges](https://cryptopals.com/)
+* [SmashTheStack](http://smashthestack.org/index.html#)
+* [CodeAcademy: command line](https://www.codecademy.com/learn/learn-the-command-line)
 * [Learn to Hack](https://hackcenter.com/sign-in)
 * [Open-source cybersecurity learning](https://www.cybrary.it/)
-* [SmashTheStack](http://smashthestack.org/index.html#)
-* [infosecinstitute](http://ctf.infosecinstitute.com/)
 * [Embedded Security CTF](https://microcorruption.com/login)
+
+Crypto:  
+* [Crypto Training Challenges](https://cryptopals.com/)
+
+Web Exploits:  
+* [infosecinstitute](http://ctf.infosecinstitute.com/)
+
+Reversing:  
+* [Lena tutorials for reversing](https://tuts4you.com/download.php?list.17)
 
 # Various Helpful Online Tools
 There are a lot of powerful, free tools online which you can easily use instead of having to download or learn software packages. Really helpful if you're rushed for time and can't go looking around for the best software to install or how to use it.
