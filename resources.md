@@ -35,6 +35,10 @@ There are a lot of powerful, free tools online which you can easily use instead 
 ### Binary Exploitation
 - Retargetable Decompiler: a powerful decompiler and disassembler for executables. Works quite well (files under 10MB) and can show disassembled executable as code or branch diagrams
   - https://retdec.com/
+  
+### Binary Disassembly
+- ODA - the online disassembler: a binary disassembler that is a good resource for reversing on the go
+  - https://www.onlinedisassembler.com/odaweb/
 
 ### Password Cracking
 - Keep in mind Kali Linux has a few wordlists included at `/usr/share/wordlists/`
