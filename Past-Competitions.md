@@ -41,7 +41,7 @@ Note: These are competitions the club (or club members) participated in. For a f
 | --- | --- | --- | --- |
 | NCL Spring Training | March | n/a | |
 
-### Penetratin Testing Competitions
+### Penetration Testing Competitions
 | Competition | Priority | Difficulty | Amount of Time Required | # of participants allowed | Cost | Dates to Register | Competition Dates | Website |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | Build the Shield | Low | Low | Low | 4 | Low | End of fall/ beginning of Spring | End of fall/ beginning of Spring |
