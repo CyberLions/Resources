@@ -34,7 +34,9 @@ Note: if you do use a package manager, you'll still need a Linux architecture (i
 ### Virtual Machine
 You can also choose to run a virtual machine from your computer. A virtual machine program will virtualize an operating system as a program, allowing you to "open" an Ubuntu or Kali Linux image as though it's just another application on your host computer.  
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads) is a popular free virtual machine software
-* [VMWare Fusion](http://www.vmware.com/products/fusion/fusion-evaluation.html) is pretty good, but it is paid (can obtain a cheap license through PSU as a student though!)
+* [VMWare Fusion](http://www.vmware.com/products/fusion/fusion-evaluation.html) is faster, but it is paid software
+ * IST students can get VMWare Fusion for **FREE** at [DreamSpark](https://www.up.ist.psu.edu/dreamspark/access.php)
+ * PSU students can get it at a discounted rate [here](https://software.psu.edu/brand/VMWARE)
 
 <a name="linux"></a>
 ## Linux
